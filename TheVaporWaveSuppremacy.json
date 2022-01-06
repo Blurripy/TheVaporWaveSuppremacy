@@ -30,7 +30,7 @@
     "manifest": {
         "author": "Blurripy",
         "name": "TheVaporWaveSuppremacy",
-        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/TheVaporWaveSuppremacy\/main\/TheVaporWaveSuppremacy.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/TheVaporWaveSuppremacy\/fadfca09d1e8d5390d2745270e6c5e3ed0d4c365\/TheVaporWaveSuppremacy.json",
         "version": "1.1"
     },
     "simple_colors": {
