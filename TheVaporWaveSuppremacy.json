@@ -22,14 +22,14 @@
     "fonts": {},
     "manifest": {
         "author": "Blurripy",
-        "name": "TheVaporeWaveSuppremacy",
-        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/TheVaporWaveSuppremacy\/fadfca09d1e8d5390d2745270e6c5e3ed0d4c365\/TheVaporWaveSuppremacy.json",
+        "name": "TheVaporWaveSuppremacy",
+        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/TheVaporWaveSuppremacy\/TheVaporWaveSuppremacy.json",
         "version": "1.0"
     },
     "simple_colors": {
         "accent": -1431568384,
-        "background": 239025983,
-        "background_secondary": 1427576599,
+        "background": 402653184,
+        "background_secondary": -2147483648,
         "mention_highlight": -1885339648
     },
     "raws": {}
