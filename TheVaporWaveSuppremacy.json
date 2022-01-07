@@ -3,23 +3,16 @@
         "alpha": 255,
         "blur_radius": 0,
         "overlay_alpha": 0,
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/903002196013101056\/928336625765871686\/New_Project_1_C76C703.png"
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/879469727255244801\/928696000477011978\/New_Project_3_12C3C30.png"
     },
     "colors": {
-        "brand": -14013910,
-        "brand_500": -14013910,
-        "brand_600": -14013910,
-        "brand_new": -14013910,
-        "flexInputIconColor": -12895429,
-        "link": -15921907,
-        "link_light": -16185079,
-        "material_grey_50": -15000543,
-        "uikit_btn_bg_color_selector_background_accent_light": -15329762,
-        "uikit_btn_bg_color_selector_green": -16777216,
-        "uikit_btn_bg_color_selector_red": 1610612221,
-        "uikit_btn_bg_color_selector_secondary_dark": -16777216,
-        "uikit_btn_bg_color_selector_secondary_light": -15000543,
-        "uikit_btn_compound_color_selector_light": -1124073472
+        "brand": -5373952,
+        "brand_500": -4980736,
+        "brand_600": -4718592,
+        "brand_new": -5898240,
+        "flexInputIconColor": -4849664,
+        "link": -65536,
+        "primary_dark_660": 851050496
     },
     "drawable_tints": {
         "drawable_button_grey": -2014449928,
@@ -29,15 +22,15 @@
     "fonts": {},
     "manifest": {
         "author": "Blurripy",
-        "name": "TheVaporWaveSuppremacy",
+        "name": "TheVaporeWaveSuppremacy",
         "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/TheVaporWaveSuppremacy\/fadfca09d1e8d5390d2745270e6c5e3ed0d4c365\/TheVaporWaveSuppremacy.json",
-        "version": "1.1"
+        "version": "1.0"
     },
     "simple_colors": {
-        "accent": -16185079,
-        "background": 823925788,
-        "background_secondary": 555161367,
-        "mention_highlight": 1920367002
+        "accent": -1431568384,
+        "background": 239025983,
+        "background_secondary": 1427576599,
+        "mention_highlight": -1885339648
     },
     "raws": {}
 }
